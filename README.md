@@ -98,8 +98,6 @@ PHP                      3 repos             ██░░░░░░░░░�
 ```
 
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=aryasoni98&" alt="aryasoni98" /></p>
-
 [![Arya Soni github activity graph](https://activity-graph.herokuapp.com/graph?username=aryasoni98&theme=react-dark)](https://github.com/aryasoni98/github-readme-activity-graph)
 
 <h3>Support:</h3>
