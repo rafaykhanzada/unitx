@@ -135,7 +135,7 @@ Dart                     3 repos             ██░░░░░░░░░�
 PHP                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
 
 ```
-
+| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
 
 [![Arya Soni github activity graph](https://activity-graph.herokuapp.com/graph?username=aryasoni98&theme=react-dark)](https://github.com/aryasoni98/github-readme-activity-graph)
 
