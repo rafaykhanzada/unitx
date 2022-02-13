@@ -96,3 +96,15 @@ Dart                     3 repos             ██░░░░░░░░░�
 PHP                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
 
 ```
+
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=aryasoni98&" alt="aryasoni98" /></p>
+
+[![Arya Soni github activity graph](https://activity-graph.herokuapp.com/graph?username=aryasoni98&theme=react-dark)](https://github.com/aryasoni98/github-readme-activity-graph)
+
+<h3>Support:</h3>
+<p><a href="https://www.buymeacoffee.com/aryasoni98"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aryasoni98" /></a></p><br><br>
+
+
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
