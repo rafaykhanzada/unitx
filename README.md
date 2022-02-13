@@ -1,10 +1,6 @@
-- 👋 Hi, I’m Rafay Khan
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning DL
-- 💞️ I’m looking to collaborate on Hybird App
 
 <!---Info-->
-### Hi there, I'm [Durgesh Samariya](https://durgeshsamariya.github.io) 👋
+### Hi there, I'm [Abdul Rafay Khan](https://durgeshsamariya.github.io) 👋
 
 I am a third year Machine Learning Ph.D. candidate at [Federation University](https://federation.edu.au), Australia. Apart from that I am seasonal ML developer that loves writing articles (on Machine Learning, Data Science, Productivity and PhD Tips) and contributing to open source.
 
@@ -140,7 +136,7 @@ PHP                      3 repos             ██░░░░░░░░░�
 [![Arya Soni github activity graph](https://activity-graph.herokuapp.com/graph?username=aryasoni98&theme=react-dark)](https://github.com/aryasoni98/github-readme-activity-graph)
 
 <h3>Support:</h3>
-<p><a href="https://www.buymeacoffee.com/aryasoni98"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aryasoni98" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/unitx"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aryasoni98" /></a></p><br><br>
 
 
 ## 😂 Here is a random joke that'll make you laugh!
