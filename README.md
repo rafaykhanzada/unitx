@@ -146,8 +146,7 @@ PHP                      3 repos             ██░░░░░░░░░�
 [facebook]: https://www.facebook.com/kumar.sonusingh.37454/
 [hackerrank]: https://www.hackerrank.com/sonu_kumar_08
 
-<h2 align="center">Show  &nbsp;❤️&nbsp; by starring some of the repositories!</h2> </p><br>
-<br>
+<h2 align="center">Show  &nbsp;❤️&nbsp; by starring some of the repositories!</h2> </p>
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
