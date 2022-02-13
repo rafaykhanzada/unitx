@@ -137,7 +137,7 @@ PHP                      3 repos             ██░░░░░░░░░�
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="center">
-<p><a href="https://www.buymeacoffee.com/unitx"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aryasoni98" /></a></p>
+<p align="center"><a href="https://www.buymeacoffee.com/unitx"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aryasoni98" /></a></p>
 
 <h3 align="center">VISITOR COUNT :  <img align="center" src="https://profile-counter.glitch.me/unitx/count.svg"/></h3>
 
