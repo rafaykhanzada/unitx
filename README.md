@@ -50,6 +50,14 @@ unitx/unitx is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 --->
 <h2 align="center">About me</h2>
+👇 Hit in your console or terminal to connect with me.
+
+```bash
+npx anmol
+```
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
 ```javascript
 const anmol = {
     pronouns: "He" | "Him",
@@ -76,3 +84,15 @@ const anmol = {
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+
+**I Mostly Code in Vue** 
+
+```text
+Vue                      11 repos            ███████░░░░░░░░░░░░░░░░░░   28.21% 
+JavaScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   20.51% 
+Java                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
+Dart                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
+PHP                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
+
+```
