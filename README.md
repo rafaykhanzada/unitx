@@ -3,7 +3,46 @@
 - 🌱 I’m currently learning DL
 - 💞️ I’m looking to collaborate on Hybird App
 
+<!---Info-->
+### Hi there, I'm [Durgesh Samariya](https://durgeshsamariya.github.io) 👋
 
+I am a third year Machine Learning Ph.D. candidate at [Federation University](https://federation.edu.au), Australia. Apart from that I am seasonal ML developer that loves writing articles (on Machine Learning, Data Science, Productivity and PhD Tips) and contributing to open source.
+
+
+- 💻 Currently working on PyML, a python toolkit for building some of machine learning models and state-of-the-art algorithms without using any libraries. The aim of this project is to learn machine learning algorithms from scratch.
+- 👨🏽‍💻 Currently growing my skillset in [Machine Learning](https://github.com/themlphdstudent/100DaysofMachineLearning) and [Data Science](https://github.com/themlphdstudent/100DaysofDataScience).
+
+**My Reseach Interest**:
+- Classification
+- Clustering
+- Anomaly Detection
+- Similarity Measure
+
+ **I am open to**:
+
+- any collobration work,
+- machine learning projects(development or research),
+- research internships and
+- available to become reviewer or PC member for Machine Learning/Data mining journals or conferences.
+
+**Recent Update**:
+- **January 2021**: MLGenerator web app is live. [[Website]](https://ml-generator.herokuapp.com).
+- **July 2020**: Our paper [A new effective and efficient measure for outlying aspect mining](https://link.springer.com/chapter/10.1007/978-3-030-62008-0_32) has been accepted at the 21st International Conference on Web Information Systems Engineering 2020 ([WISE 2020](http://wasp.cs.vu.nl/WISE2020/)).
+
+**Service to research comunity**:
+- PC Member, at The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases 2020 ([ECML/PKDD 2020](https://ecmlpkdd2020.net/organisation/programcommittee/)), Ghent [2020].
+
+## My Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Generate Machine Learning Code in Few Clicks Using Machine Learning Code Generator](https://medium.com/towards-artificial-intelligence/generate-machine-learning-code-in-few-clicks-using-machine-learning-code-generator-62e4a4f30b23)
+- [20+ Data Science Projects with Code](https://medium.com/@themlphdstudent/20-data-science-projects-with-code-f447ac5b444d)
+- [Campus Recruitment: EDA and Classification — Part 2](https://medium.com/towards-artificial-intelligence/campus-recruitment-eda-and-classification-part-2-ff8bdc634e7)
+- [Campus Recruitment: EDA and Classification — Part 1](https://medium.com/towards-artificial-intelligence/campus-recruitment-eda-and-classification-part-1-ca07945f3e47)
+- [Data Analysis and Visualization using Pandas, Matplotlib and Seaborn](https://medium.com/python-in-plain-english/data-analysis-and-visualization-using-pandas-matplotlib-and-seaborn-5bc27e8d00c3)
+- [Analysing and Visualising the Country wise Population from 1955 to 2020 with Pandas, Matplotlib, Seaborn and Plotly](https://towardsdatascience.com/analysing-and-visualising-the-country-wise-population-from-1955-to-2020-with-pandas-matplotlib-70b3614eed6b)
+- [More..](https://medium.com/@themlphdstudent)
+<!-- BLOG-POST-LIST:END -->
+<!---end--->
 <div size='20px'> Hi! My name is Aditya. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
