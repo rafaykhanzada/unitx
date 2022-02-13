@@ -137,8 +137,8 @@ PHP                      3 repos             ██░░░░░░░░░�
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h3>Support:</h3>
 <p><a href="https://www.buymeacoffee.com/unitx"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aryasoni98" /></a></p><br><br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=unitx&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
-<p><a href="https://www.buymeacoffee.com/unitx"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aryasoni98" /></a></p><br><br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=unitx&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p><br>
+<br>
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
