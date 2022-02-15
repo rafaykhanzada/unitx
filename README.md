@@ -2,10 +2,10 @@
 <!---Info-->
 ### Hi there, I'm [Abdul Rafay Khan](https://durgeshsamariya.github.io) 👋
 
-I am a third year Machine Learning Ph.D. candidate at [Federation University](https://federation.edu.au), Australia. Apart from that I am seasonal ML developer that loves writing articles (on Machine Learning, Data Science, Productivity and PhD Tips) and contributing to open source.
+I am a first year Machine Learning B.S candidate at [Bahria University](https://www.bahria.edu.pk/), Pakistan. Apart from that I am seasonal ML developer that loves writing articles (on Machine Learning, Data Science, Productivity and Tips) and contributing to open source.
 
 
-- 💻 Currently working on PyML, a python toolkit for building some of machine learning models and state-of-the-art algorithms without using any libraries. The aim of this project is to learn machine learning algorithms from scratch.
+- 💻 Currently working on Flutter,NodeJs,Asp.Net Core & ML, a python toolkit for building some of machine learning models and state-of-the-art algorithms without using any libraries. The aim of this project is to learn machine learning algorithms from scratch.
 - 👨🏽‍💻 Currently growing my skillset in [Machine Learning](https://github.com/themlphdstudent/100DaysofMachineLearning) and [Data Science](https://github.com/themlphdstudent/100DaysofDataScience).
 
 **My Reseach Interest**:
