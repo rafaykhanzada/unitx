@@ -95,20 +95,20 @@ npx anmol
 ```javascript
 const anmol = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java", "php"],
+    code: ["Javascript", "Typescript", "Python", "Java", "php", "dart", "C#"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
-        mobileApp: ["Android App"],
+        mobileApp: ["Flutter"],
         frontEnd: {
             js: ["Vue", "Nuxt"],
             css: ["materialize", "vuetify", "bootstrap"]
         },
         backEnd: {
-            js: ["node", "express", "SuiteScript"],
+            js: ["node", "express", ".net core"],
             python: ["flask"]
         },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
+        devOps: ["AWS", "Docker🐳", "Nginx"],
+        databases: ["mongo", "MySql", "sqlite","ms-sql],
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
