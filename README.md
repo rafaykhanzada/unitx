@@ -1,6 +1,6 @@
 
 <!---Info-->
-### Hi there, I'm [Abdul Rafay Khan](https://durgeshsamariya.github.io) 👋
+### Hi there, I'm [Abdul Rafay Khan](https://unitx.github.io) 👋
 
 I am a first year Machine Learning B.S candidate at [Bahria University](https://www.bahria.edu.pk/), Pakistan. Apart from that I am seasonal ML developer that loves writing articles (on Machine Learning, Data Science, Productivity and Tips) and contributing to open source.
 
