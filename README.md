@@ -88,7 +88,7 @@ You can click the Preview link to take a look at your changes.
 👇 Hit in your console or terminal to connect with me.
 
 ```bash
-npx rafay
+npx unitx
 ```
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
