@@ -2,7 +2,7 @@
 <!---Info-->
 ### Hi there, I'm [Abdul Rafay Khan](https://unitx.github.io) 👋
 
-I am a first year Machine Learning B.S candidate at [Bahria University](https://www.bahria.edu.pk/), Pakistan. Apart from that I am seasonal ML developer that loves writing articles (on Machine Learning, Data Science, Productivity and Tips) and contributing to open source.
+I am a first year Computer Science B.S candidate at [Shaheed Zulfikar Ali Bhutto Institute of Science and Technology](https://www.bahria.edu.pk/), Pakistan. Apart from that I am seasonal Backend developer that loves writing articles (on Backend APIs, Data Science, Productivity and Tips) and contributing to open source.
 
 
 - 💻 Currently working on Flutter,NodeJs,Asp.Net Core & ML, a python toolkit for building some of machine learning models and state-of-the-art algorithms without using any libraries. The aim of this project is to learn machine learning algorithms from scratch.
